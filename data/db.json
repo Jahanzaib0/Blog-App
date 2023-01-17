@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World",
+      "id": 1,
+      "author": "areesh",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, atque perspiciatis? Doloribus, saepe. Voluptas, dolorum! Perspiciatis voluptates optio ipsam quod. Ut officia soluta voluptatibus nemo eius voluptate ducimus aliquid tenetur."
+    },
+    {
+      "title": "Good Morning",
+      "id": 2,
+      "author": "jazzy",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, atque perspiciatis? Doloribus, saepe. Voluptas, dolorum! Perspiciatis voluptates optio ipsam quod. Ut officia soluta voluptatibus nemo eius voluptate ducimus aliquid tenetur."
+    },
+    {
+      "title": "Good Night",
+      "id": 3,
+      "author": "harry",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, atque perspiciatis? Doloribus, saepe. Voluptas, dolorum! Perspiciatis voluptates optio ipsam quod. Ut officia soluta voluptatibus nemo eius voluptate ducimus aliquid tenetur."
+    },
+    {
+      "title": "Intro",
+      "description": "My Name is Zohaib",
+      "author": "harry",
+      "id": 4
+    }
+  ]
+}
